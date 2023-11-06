@@ -1,0 +1,19 @@
+@charset "utf8";
+body {
+     background-color : #000000;
+     color: black;
+     margin-left:5em;
+     margin-right: 5em;
+     }
+h1 {
+   font-size : 4.5em;
+   background-color: #480;
+   color : white;
+   padding : 0.2em
+   }
+h2 {
+   font-size : 1.2em;
+   border : 1px solid #480;
+   padding: 0.2em;
+   }
+p {font-height: 1.6}

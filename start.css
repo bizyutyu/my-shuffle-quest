@@ -1,0 +1,30 @@
+@charset "utf8";
+body {
+     background-color : #000000;
+     color: black;
+     margin-left:5em;
+     margin-right: 5em;
+     }
+h1 {
+   font-size : 4.0em;
+   color : white;
+   background-color: #000000;
+   border : 5px solid #ffffff;
+   padding : 0.2em;
+   text-align: center;
+   }
+a {
+   color : white;
+   }
+li {
+   color : white;
+   }
+p {
+  font-height: 1.6;
+  margin: 0 auto;
+  text-align: center;
+}
+.none li{
+  list-style: none;
+  color : white;
+}

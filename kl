@@ -1,0 +1,28 @@
+                        Access privileges
+ Schema |  Name   | Type  | Access privileges | Column privileges 
+--------+---------+-------+-------------------+-------------------
+ public | a       | table |                   | 
+ public | aq      | table |                   | 
+ public | b       | table |                   | 
+ public | iii     | table |                   | 
+ public | kk      | table |                   | 
+ public | lll     | table |                   | 
+ public | mario   | table |                   | 
+ public | ocean   | table |                   | 
+ public | ooo     | table |                   | 
+ public | ore     | table |                   | 
+ public | passdb  | table |                   | 
+ public | po      | table |                   | 
+ public | ppp     | table |                   | 
+ public | problem | table |                   | 
+ public | qqq     | table |                   | 
+ public | quiz    | table |                   | 
+ public | quiz2   | table |                   | 
+ public | tast    | table |                   | 
+ public | tre     | table |                   | 
+ public | ty      | table |                   | 
+ public | unun    | table |                   | 
+ public | van     | table |                   | 
+ public | z       | table |                   | 
+(23 rows)
+
